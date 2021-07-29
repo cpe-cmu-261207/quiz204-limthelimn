@@ -8,6 +8,17 @@ const color = document.querySelector('#color')
 
 btn_toggle.onclick = () => {
   // your code here
+  
+  if (btn_toggle.value.length > 0) {
+    
+    
+  }
+  
+
+
+
 }
+
+btn_toggle.addEventListener('click', onclick);
 
 // more codes for Search and Reset buttons here
